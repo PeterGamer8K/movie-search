@@ -1,0 +1,1 @@
+This project is made with react and using the The Movie DB API that provides the list of typed movies
