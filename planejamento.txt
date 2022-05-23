@@ -1,0 +1,2 @@
+O usuário verá uma caixa de texto para digitar o nome do filme
+Em baixo terá uma lista com todos os filmes retornados
